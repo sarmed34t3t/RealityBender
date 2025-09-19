@@ -23,16 +23,18 @@ It automatically captures screenshots and generates a GIF proof of each session 
 
 Clone the repo and set up the environment:
 
-\`\`\`bash
+```bash
+# Clone the repo
 git clone https://github.com/howard-dominic/RealityBender.git
 cd RealityBender
+
+# Create Python virtual environment
 python3 -m venv venv
 source venv/bin/activate
-pip install -r requirements.txt
-pip install .
-\`\`\`
 
----
+# Install requirements
+pip install -r requirements.txt
+pip install .                                                                                                                                                                                                                               ---
 
 ## ▶️ Usage
 
@@ -52,7 +54,6 @@ realitybender
 
 ## 📸 **Proof of Work (Screenshots & GIF)**
 
-> *Keep your files in \`assets/proofs/\` folder. Paths below must remain as-is for GitHub rendering.*
 
 ### 🔹 **Glitch Effect**
 ![Glitch](assets/proofs/RealityBender1.png)
@@ -79,26 +80,18 @@ realitybender
 
 > 🔎 *Each frame highlights one effect — perfect for demos and documentation.*
 
----
-
-## 🗂️ Project Structure
-
-\`\`\`
-RealityBender/
+---                                                                                                                                                                                                                                         RealityBender/
 ├── RealityBender/
-│   ├── core/
-│   │   └── engine.py
-│   └── __init__.py
+│ ├── core/
+│ │ └── engine.py
+│ └── init.py
 ├── assets/
-│   └── proofs/   # contains screenshots & GIF proofs
+│ └── proofs/ # contains screenshots & GIF proofs
 ├── main.py
 ├── setup.py
 ├── README.md
 ├── requirements.txt
-└── .gitignore
-\`\`\`
-
----
+└── .gitignore                                                                                                                                                                                                                              ---
 
 ## 🤝 Contributing
 
