@@ -23,6 +23,7 @@ It automatically captures screenshots and generates a GIF proof of each session 
 
 Clone the repo and set up the environment:
 
+  
 \`\`\`bash
 git clone https://github.com/howard-dominic/RealityBender.git
 cd RealityBender
