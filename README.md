@@ -52,8 +52,6 @@ realitybender
 
 ## 📸 **Proof of Work (Screenshots & GIF)**
 
-> *Keep your files in \`assets/proofs/\` folder. Paths below must remain as-is for GitHub rendering.*
-
 ### 🔹 **Glitch Effect**
 ![Glitch](assets/proofs/RealityBender1.png)
 
@@ -76,27 +74,6 @@ realitybender
 
 ## 🎞️ **Full Session GIF**
 ![RealityBender in Action](assets/proofs/RealityBender.gif)
-
-> 🔎 *Each frame highlights one effect — perfect for demos and documentation.*
-
----
-
-## 🗂️ Project Structure
-
-\`\`\`
-RealityBender/
-├── RealityBender/
-│   ├── core/
-│   │   └── engine.py
-│   └── __init__.py
-├── assets/
-│   └── proofs/   # contains screenshots & GIF proofs
-├── main.py
-├── setup.py
-├── README.md
-├── requirements.txt
-└── .gitignore
-\`\`\`
 
 ---
 
